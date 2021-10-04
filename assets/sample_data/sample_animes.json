@@ -1,0 +1,46 @@
+
+{
+    "animes": [
+        {
+            "dishImage": "assets/anime_img/charlotte.jpg",
+            "title": "Charlotte",
+            "duration": "24 mins",
+            "source": "https://myanimelist.net/anime/28999/Charlotte/",
+            "information": [
+            ]
+        },
+        {
+            "dishImage": "assets/anime_img/date.jpg",
+            "title": "Date A Bullet",
+            "duration": "1 hour",
+            "source": "https://myanimelist.net/anime/15583/Date_A_Live/",
+            "information": [
+            ]
+        },
+        {
+            "dishImage": "assets/anime_img/hello_world.jpeg",
+            "title": "Hello World!!",
+            "duration": "120 mins",
+            "source": "https://myanimelist.net/anime/38816/Hello_World/",
+            "information": [
+            ]
+        },
+        {
+            "dishImage": "assets/anime_img/angelbeats.jpg",
+            "title": "Angel Beats",
+            "duration": "24 mins",
+            "source": "https://myanimelist.net/anime/6547/Angel_Beats/",
+            "information": [
+            ]
+        },
+        {
+            "dishImage": "assets/anime_img/sakurasou.jpg",
+            "title": "Sakurasou No Pet Kanojo",
+            "duration": "24 mins",
+            "source": "https://myanimelist.net/anime/13759/Sakura-sou_no_Pet_na_Kanojo/",
+            "information": [
+            ]
+            
+        }
+    ]
+}

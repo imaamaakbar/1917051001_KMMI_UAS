@@ -1,0 +1,40 @@
+{
+    "animes": [
+        {
+            "cardType": "card1",
+            "title": "Date A Bullet",
+            "subtitle": "Editor's Choice",
+            "backgroundImage": "assets/magazine_anime/date.jpg",
+            "message": "Date or Bullet",
+            "authorName": "Imam Akbar",
+            "role": "Founder of Raywenderlich",
+            "authorImage": "assets/profile_pics/person.jpeg",
+            "durationInMinutes": 15
+        },
+        {
+            "cardType": "card2",
+            "title": "Hello World!!",
+            "subtitle": "Tokyo",
+            "backgroundImage": "assets/magazine_anime/hello_world.jpeg",
+            "message": "Anime tahun 2019",
+            "authorName": "Imam Akbar",
+            "role": "ROMANCE",
+            "profileImage": "assets/profile_pics/person.jpg",
+            "durationInMinutes": 15
+            
+        },
+        {
+            "cardType": "card1",
+            "title": "ANGEL BEATS!!",
+            "subtitle": "2010",
+            "backgroundImage": "assets/magazine_anime/angelbeats.jpg",
+            "message": "Anime 2010",
+            "authorName": "Imam Akbar",
+            "role": "Adventure",
+            "profileImage": "assets/profile_pics/person.jpeg",
+            "durationInMinutes": 15
+            
+        }
+        
+    ]
+}
